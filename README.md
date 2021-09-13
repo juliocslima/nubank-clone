@@ -6,8 +6,15 @@
 -->
 
 <!-- PROJECT SHIELDS -->
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000">
 
-[![NPM](https://img.shields.io/npm/l/react-native-template-rocketseat-basic.svg)](https://choosealicense.com/licenses/mit)
+ <img src="https://img.shields.io/static/v1?label=Nubank Clone&message=1.0&color=8257E5&labelColor=000000" alt="Nubank Clone Interface" />
+</p>
+
+<h1 align="center">
+  <img alt="SDS 4.0" title="Semana Spring React" src="https://github.com/juliocslima/nubank-clone/blob/main/images/screen-shot.png?raw=true" />
+</h1>
 
 <!-- PROJECT LOGO -->
 <br />
